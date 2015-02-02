@@ -28,12 +28,12 @@ To keep the repository nice and clean, you can prevent your machine from pushing
 
 Your gitignore file should contain: 
 
-<code>
+<pre><code>
 #Ignore compiled python scripts:
 *.pyc
 
 #Ignore OSX Files
 .DS_Store
-</code>
+</pre></code>
 
 
