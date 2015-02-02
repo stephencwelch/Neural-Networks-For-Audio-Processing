@@ -27,11 +27,12 @@ Nice summary of fundamentals: https://www.youtube.com/watch?v=0fKg7e37bQE Genera
 To keep the repository nice and clean, you can prevent your machine from pushing up files that aren't needed in the repository (.pyc, compiled python scripts, and on OSX .DS_Store system files). Here's a nice guide to setting this up on osx: http://devoh.com/blog/2013/01/global-gitignore
 
 Your gitignore file should contain: 
-  #Ignore compiled python scripts:
-  *.pyc
-  
-  #Ignore OSX Files
-  .DS_Store
+```
+#Ignore compiled python scripts:
+*.pyc
 
+#Ignore OSX Files
+.DS_Store
+```
 
 
