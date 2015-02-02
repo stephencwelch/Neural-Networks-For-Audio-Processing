@@ -9,6 +9,9 @@ Building a nice functonal version of python with all needed dependencies can be 
 This guide has helped me in the past, but is a bit dated:
 http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/
 
+And a very thorough guide to getting going on OSX:
+http://sourabhbajaj.com/mac-setup/
+
 ###On Windows
 Install Linux or buy a MacBook. 
 
@@ -20,6 +23,9 @@ Once all software is installed, navigate the the proper directory in the termina
 <code>ipython notebook --pylab inline</code>
 
 The pylab automatically imports useful things like scipy, numpy, matplotlib. The inline command makes the plots inline with the notebook, as opposed to popping them out. 
+
+##Editing
+When not editing in the notebook, I recommend Sublime Text: http://www.sublimetext.com/
 
 ##Github
 Nice summary of fundamentals: https://www.youtube.com/watch?v=0fKg7e37bQE Generally on this project, contributors will fork the repository to make a local copy, edit away, and submit pull requests to merge thier code back in. 
