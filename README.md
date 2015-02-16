@@ -10,7 +10,10 @@ One application explored here is modeling microphone signals of acoustic instrum
 
 A strong modeling solution will then respond adaptively to various modes of operation of an acoustic instrument (plucking, strumming, bowing, sustain). 
 
-##Viewing iPython Notebooks
+##Objective and Direction
+While this repository is focused on processing audio using neural networks, other models and adaptive filtering approaches will be investigated. We begin with an OLS (ordinary least squares) method and will slowly expand to explore more sophisticated approaches, while documenting the functionality, application, advantages, and disadvantages of other approaches. 
+
+###Viewing iPython Notebooks
 A significant portion of the work done here is developed and presented using iPython notebooks. These can be viewed using the nbviewer: http://nbviewer.ipython.org/github/stephencwelch/Neural-Networks-For-Audio-Processing/tree/master/
 
 
