@@ -1,7 +1,7 @@
 #Getting Started
 
 ##Python Stack
-Several options exist for running scripts on your machine. On OSX, I recommend using the package manager homebrew: http://brew.sh/. 
+Several options exist for running scripts on your machine. On OSX, I recommend using the package manager [homebrew](http://brew.sh/).
 
 Building a nice functonal version of python with all needed dependencies can be tough, especially if you're coming from a language like MATLAB. You will learn a bit about how software and computers work though!
 
@@ -32,7 +32,6 @@ The pylab automatically imports useful things like scipy, numpy, matplotlib. The
 ##Working with audio
 A great audio tool for python is scikits.audiolab:
 
-This is [an example](http://example.com/ "Title") inline link.
 
 ##Editing
 When not editing in the notebook, I recommend Sublime Text: http://www.sublimetext.com/
