@@ -19,7 +19,7 @@ Once all software is installed, navigate the the proper directory in the termina
 
 <code>ipython notebook --pylab inline</code>
 
-The pylab automatically imports useful things like scipy, numpy, matplotlib. The inline command makes the plots inline with the notebook, as opposed to popping them out. 
+The pylab option automatically imports useful things like scipy, numpy, matplotlib. The inline command makes the plots inline with the notebook, as opposed to popping them out. 
 
 ##Working with audio
 A great audio tool for python is [scikits.audiolab](https://pypi.python.org/pypi/scikits.audiolab/). You can install scikits audiolab with pip: 
