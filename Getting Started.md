@@ -29,7 +29,7 @@ A great audio tool for python is [scikits.audiolab](https://pypi.python.org/pypi
 You may need to install [libsndfile](http://www.mega-nerd.com/libsndfile/) for audiolab to work properly.
 
 ##Editing
-When not editing in the notebook, I recommend [Sublime Text](http://www.sublimetext.com/)
+When not editing in the notebook, I recommend [Sublime Text](http://www.sublimetext.com/).
 
 ##Github
 [Nice summary of fundamentals](https://www.youtube.com/watch?v=0fKg7e37bQE). Generally on this project, contributors will fork the repository to make a local copy, edit away, and submit pull requests to merge thier code back in. 
