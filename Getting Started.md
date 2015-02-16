@@ -1,7 +1,7 @@
 #Getting Started
 
 ###On OSX
-There are a few ways to get iPython and the necessary dependencies installed. One option is to use the package manager [homebrew](http://brew.sh/). [This](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/) guide has helped me in the past, but is a bit dated: 
+There are a few ways to get iPython and the necessary dependencies installed. One option is to use the package manager [homebrew](http://brew.sh/). [This](http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/) guide has helped me in the past, but is a bit dated.
 
 Another great option, and probably the simplest is to use the [anaconda](https://store.continuum.io/cshop/anaconda/) or miniconda distrubtions from endthought. 
 
@@ -43,6 +43,9 @@ Your gitignore file should contain:
 
 #Ignore OSX Files
 .DS_Store
+
+#Ignore python checkpoints:
+*.ipynb_checkpoints
 ```
 
 
